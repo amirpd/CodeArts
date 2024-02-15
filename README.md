@@ -11,6 +11,6 @@ This collection serves as a testament to my passion for coding and innovation.Ea
 
 ## Demo
 
-<a href="https://amirpd.github.io/CodeArts/JourneyPioneer"><a/>
-<a href="https://amirpd.github.io/CodeArts/shop-portfolio"><a/>
+<a href="https://amirpd.github.io/CodeArts/JourneyPioneer/"><a/>
+<a href="https://amirpd.github.io/CodeArts/shop-portfolio/"><a/>
 
